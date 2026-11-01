@@ -17,6 +17,10 @@ body {
     ol {
         list-style-position: inside;
         margin-top: 2em;
+
+        li {
+            margin-bottom: 1em;
+        }
     }
 }
 
