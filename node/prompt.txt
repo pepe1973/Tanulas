@@ -1,0 +1,3 @@
+Kérek egy ajánlott sorrendet a javascript részletes tanulására. Legyen nagyobb témakörök szerint tagolva.
+A következő témában kérek magyarázó szöveget. Képek nélkül. A végén 10 ellenőrző kérdéssel.
+A következő témában kérek magyarázó szöveget. Képek nélkül. A végén 10 ellenőrző kérdéssel és 10 feladattal.
